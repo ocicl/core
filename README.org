@@ -1,0 +1,10 @@
+* core
+
+The core functionality for server modules
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/interactive-ssr/core.git   |
+| commit  | 64e3b07  |
+| systems | core |
+|---------+-------------------------------------------|
+
